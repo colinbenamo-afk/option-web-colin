@@ -11,9 +11,9 @@
 -- Navigation fluide : Créer un site simple où l'utilisateur ne se perd jamais pour trouver ce qu'il cherche.
 
 
-Client : Crêp Diem
-Liste des pages : accueil horaire activité Contact
-Faits disponibles : Le club Crêp Diem se réunit chaque lundi et mercredi soir, de 16h à 20h, au local de la Rue du Four 8, 1450 Sainte-Croix.
-Technologie : WordPress + Bricks
-Exclu explicitement : pas de boutique en ligne, pas d'espace membre, pas de galerie complète des soirées passées
-URL : https://cbenamo.eleves.mediamatique.ch/m07/
+-- Client : Crêp Diem
+-- Liste des pages : accueil horaire activité Contact
+-- Faits disponibles : Le club Crêp Diem se réunit chaque lundi et mercredi soir, de 16h à 20h, au local de la Rue du Four 8, 1450 Sainte-Croix.
+-- Technologie : WordPress + Bricks
+-- Exclu explicitement : pas de boutique en ligne, pas d'espace membre, pas de galerie complète des soirées passées
+-- URL : https://cbenamo.eleves.mediamatique.ch/m07/
