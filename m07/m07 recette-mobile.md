@@ -1,5 +1,5 @@
 
-Sur son téléphone, une personne doit pouvoir trouver une recette de crêpe en moins de 30 secondes.
+# Sur son téléphone, une personne doit pouvoir trouver une recette de crêpe en moins de 30 secondes.
 
 - p1: accueil résumer des autre page
       la page d'accueille doit envoyer au plus vite les utilisateur sur la recettes et donner envie de manger des crêpes
